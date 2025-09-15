@@ -2,4 +2,4 @@
 <br>
 This is my first Git Repo.
 <br>
-Author - Neha Kumari
+Author - Neha Kumari ( Shopify)
